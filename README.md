@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
+# Introduction
+This repository contains the code that I have been doing during the React course from Udemy: https://www.udemy.com/react-redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+During this course I have learnt about React and Redux doing several example projects for a further understanding of the concepts.
 
-### Getting Started
+The master branch contains the boiler plate code for start the projects of this course.
 
-There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+In the following branches you can find the different projects that have been developed during the course:
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+* YoutubeExample
+* BookExample
+* BlogExample
+* WeatherAppReactRedux
